@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a9d38e5-9853-41b1-b703-123372df4081" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1c7RVlcta8ue707p5SYsNAjeBr4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="APlusB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.APlusB" />
+      <module name="Submission_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Submission_1" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.APlusB" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.APlusB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a9d38e5-9853-41b1-b703-123372df4081" name="Default Changelist" comment="" />
+      <created>1589877670634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589877670634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="73" key="#Inspections" timestamp="1589884753098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="73" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1589884753098" />
+    <state x="911" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589884993620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="911" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589884993620" />
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589881847370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589881847370" />
+    <state x="911" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1589883834897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="911" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589883834897" />
+    <state x="758" y="153" key="FileChooserDialogImpl" timestamp="1589965826429">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="758" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589965826429" />
+    <state width="724" height="209" key="GridCell.Tab.0.bottom" timestamp="1589965854018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589965854018" />
+    <state width="724" height="209" key="GridCell.Tab.0.center" timestamp="1589965854017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589965854017" />
+    <state width="724" height="209" key="GridCell.Tab.0.left" timestamp="1589965854017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589965854017" />
+    <state width="724" height="209" key="GridCell.Tab.0.right" timestamp="1589965854018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589965854018" />
+    <state x="869" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1589962196593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="869" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589962196593" />
+    <state x="418" y="32" key="new project wizard" timestamp="1589965852519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589965852519" />
+  </component>
+</project>
