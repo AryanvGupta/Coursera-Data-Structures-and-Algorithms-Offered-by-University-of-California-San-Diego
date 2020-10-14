@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ad1a3f7-1029-4b9d-b4ae-dfee7c64f496" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ex8WlrI8R29oNjcVbwTZQTeU7B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Finding a k-Universal Circular String" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ad1a3f7-1029-4b9d-b4ae-dfee7c64f496" name="Default Changelist" comment="" />
+      <created>1595251917505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595251917505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="883" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1595252011624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595252011624" />
+    <state width="726" height="208" key="GridCell.Tab.0.bottom" timestamp="1595253484828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595253484828" />
+    <state width="726" height="208" key="GridCell.Tab.0.center" timestamp="1595253484828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595253484828" />
+    <state width="726" height="208" key="GridCell.Tab.0.left" timestamp="1595253484828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595253484828" />
+    <state width="726" height="208" key="GridCell.Tab.0.right" timestamp="1595253484828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595253484828" />
+  </component>
+</project>
